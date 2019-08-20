@@ -1,5 +1,5 @@
 
-CEREBRO_VERSION?=0.8.1
+CEREBRO_VERSION?=0.8.4
 
 ORG?=vivareal
 PROJECT?=es-cerebro
